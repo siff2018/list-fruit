@@ -5,6 +5,6 @@ pineApple
 milk
 butterMilk
 __________
-77777777777\
+77777777
 11111111
 console.log('happy fly')
