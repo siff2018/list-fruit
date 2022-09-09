@@ -6,5 +6,4 @@ milk
 butterMilk
 ________
 77777777
-11111111
 console.log('happy fly')
