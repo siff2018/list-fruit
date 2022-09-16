@@ -8,7 +8,6 @@ ________
 77777777
 console.log('happy fly')
 99999999999999999999
-peer
-lalala
+pee
 work hard!
 44444
