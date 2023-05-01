@@ -16,3 +16,4 @@ bird king
 hamster
 d
 yellow
+reduce()
